@@ -2,22 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Data Mining & Analytics
 
-[Project 1 Title](/sample_page)
+[Mining Yelp Review Data for Restaurant Owners](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Embedded Custom Analytics in Website for Customer Tracking](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Other Analytics Projects](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Monitoring Tweets and Negative Review Suppression 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
