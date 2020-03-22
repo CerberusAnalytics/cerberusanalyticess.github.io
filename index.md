@@ -6,7 +6,7 @@
 
 [Read Our Brochure](/pdf/cerberusanalytics.pdf)
 
-About Us 
+#About Us 
 
 Our obsession is on your your online brand.
 <br>We are a group of data scientists who have a passion for creative technology solutions to growth hack your business. From social media data mining to optimizing the customer experience with growth hacking, we create  technology driven solutions that foster and drive organic growth to your online brand. 
